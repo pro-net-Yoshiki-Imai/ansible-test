@@ -1,4 +1,4 @@
 # ansible-test
-Playbook テスト用。
+Playbook 保管庫。
 
 
